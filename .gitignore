@@ -1,0 +1,6 @@
+*.log
+coverage.txt
+.phpunit.result.cache
+
+.idea/
+.vscode/
